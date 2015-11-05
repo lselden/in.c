@@ -831,6 +831,9 @@ body * {
   width: 25%;
   border-left: 1px solid #111;
 }
+.col > .position {
+  transition: background 0.5s;
+}
 .grid .col.square {
   background: #a7ae61;
 }
@@ -868,7 +871,7 @@ body * {
   background: #72999c;
 }
 .grid .col.sine .position:hover {
-  background: #D69083;
+  background: #A6B8B9;
 }
 
 .grid .col.sine .controls,
@@ -895,7 +898,7 @@ body * {
   background: #d64c33;
 }
 .grid .col.triangle .position:hover {
-  background: #A6B8B9;
+  background: #D69083;
 }
 .grid .col.triangle .controls,
 .grid .col.triangle .volume,
