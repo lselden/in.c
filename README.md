@@ -8,8 +8,7 @@ This iteration is their front-end code with the node + arduino bits taken out, s
 
 ## Running in.c
 
-Launch in.c by running:
-
+[Launch in.c](http://lselden.github.io/in.c) 
 
 ## Licensing
 
@@ -25,4 +24,3 @@ The composition "In C" is the copyright of Terry Riley / Celestial Harmonies.
 [entypo]: http://www.entypo.com/
 [ostrich]: http://www.theleagueofmoveabletype.com/ostrich-sans
 [apostrophic]: http://moorstation.org/typoasis/designers/lab/index.htm
-
