@@ -839,9 +839,11 @@ body * {
 .grid .col.square .vol-slider {
   background: #92984e;
 }
-.grid .col.square .position {
-  background: #a2a958;
+.grid .col.square .position { background: #a2a958; }
+.grid .col.square .position:hover {
+  background: #CACEA0;
 }
+
 .grid .col.square .controls,
 .grid .col.square .volume,
 .grid .col.square .value {
@@ -865,6 +867,10 @@ body * {
 .grid .col.sine .position {
   background: #72999c;
 }
+.grid .col.sine .position:hover {
+  background: #D69083;
+}
+
 .grid .col.sine .controls,
 .grid .col.sine .volume,
 .grid .col.sine .value {
@@ -887,6 +893,9 @@ body * {
 }
 .grid .col.triangle .position {
   background: #d64c33;
+}
+.grid .col.triangle .position:hover {
+  background: #A6B8B9;
 }
 .grid .col.triangle .controls,
 .grid .col.triangle .volume,
@@ -1164,10 +1173,10 @@ body * {
   text-align: center;
   right: 0;
 }
-.credits a {
+.credits > a {
   color: white;
   text-decoration: none;
 }
-.credits a:hover {
+.credits > a:hover {
   text-decoration: underline;
 }
