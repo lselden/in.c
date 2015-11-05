@@ -1157,3 +1157,17 @@ body * {
   line-height: 1.5em;
   font-weight: 200;
 }
+.credits {
+  position: fixed;
+  bottom: 4px;
+  width: 25%;
+  text-align: center;
+  right: 0;
+}
+.credits a {
+  color: white;
+  text-decoration: none;
+}
+.credits a:hover {
+  text-decoration: underline;
+}
