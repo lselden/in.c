@@ -2,15 +2,14 @@
 
 in.c is a web application that uses the Web Audio API to perform Terry Riley's 1964 composition [In C][inc], accompanied by visualizations of the music being played.
 
-This current iteration of in.c [was developed for](http://cargocollective.com/user-required/Jeff-Pierce-and-Dave-Howell) the [User Required exhibition](http://cargocollective.com/user-required) at the Burlington City Arts gallery in Burlington, VT.
+The previous iteration of in.c [was developed for](http://cargocollective.com/user-required/Jeff-Pierce-and-Dave-Howell) the [User Required exhibition](http://cargocollective.com/user-required) at the Burlington City Arts gallery in Burlington, VT.
+
+This iteration is their front-end code with the node + arduino bits taken out, so it’s suitable for web browser-only use
 
 ## Running in.c
 
 Launch in.c by running:
 
-	node app.js
-
-Then browse to [http://localhost:3000/](http://localhost:3000/). in.c only works in Google Chrome.
 
 ## Licensing
 
