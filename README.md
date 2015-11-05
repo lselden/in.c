@@ -8,7 +8,7 @@ This iteration is their front-end code with the node + arduino bits taken out, s
 
 ## Running in.c
 
-Launch in.c by running:
+**[Try it out](http://lselden.github.io/in.c)** (thanks github pages!)
 
 
 ## Licensing
