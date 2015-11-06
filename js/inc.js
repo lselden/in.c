@@ -83,7 +83,7 @@ var instrumentSettings = {
         'oscil2': {
             'waveform': 'sine',
             'octave': 16,
-            'detune': 10,
+            'detune': 5,
             'vibratoAmount': 15,
             'vibratoSpeed': 2.2,
             'gain': 30
@@ -129,7 +129,7 @@ var instrumentSettings = {
         'oscil2': {
             'waveform': 'triangle',
             'octave': 8,
-            'detune': 20,
+            'detune': 5,
             'vibratoAmount': 10,
             'vibratoSpeed': 2.2,
             'gain': 50
